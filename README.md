@@ -39,7 +39,7 @@ Calculate: Press the "Calculate" button to see your BMI and its corresponding ca
 
 File Structure
 graphql
-Copy code
+
 bmi-calculator-extension/
 │
 ├── manifest.json          # Extension configuration
@@ -48,7 +48,7 @@ bmi-calculator-extension/
 ├── app.js                 # JavaScript for BMI calculation
 └── assets/
     └── icon16.png         # 16x16 icon
-    └── icon48.png         # 48x48 icon
+    └── icon48.png         # 48x48 icon   
     └── icon128.png        # 128x128 icon
     └── screenshot.png     # Screenshot of the extension (optional)
 Development
